@@ -1,3 +1,9 @@
 body {
     background-color: pink;
 }
+.overview {
+    background-color: black;
+}
+.overview-headline {
+    color: #fff;
+}
